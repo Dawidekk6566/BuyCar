@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.hero {
+  background-image: url("https://cdn.discordapp.com/attachments/1096527026367758429/1108440695942942720/Hero.png");
+}
+
+.second {
+  background-image: url("https://cdn.discordapp.com/attachments/1096527026367758429/1109518037633216532/fale.png");
+}
+
+.contact {
+  background-image: url("https://cdn.discordapp.com/attachments/1096527026367758429/1109574674783944875/Tesla.png");
+}
